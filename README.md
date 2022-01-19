@@ -1,8 +1,13 @@
 # COMMODITIES REPORTING CLIENT SIDE
 
+* Install create app globally, if not already installed.
+```ruby
+npm install -g create-react-app
+```
+
 * Create the basic structure of a react App
 ```ruby
-create-react-app commodities_reporting_client_side
+create-react-app bink_estimator
 ```
 * Install Redux
 ```ruby
